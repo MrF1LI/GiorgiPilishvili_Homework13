@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "transparent-burger-icon-summer-icon-60743b9f903914.7765810116182301755907.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
